@@ -33,8 +33,6 @@ Tic-tac-toe/
 └── script.js
 
 **Author** :
-Ayush Goel
+Ayush Goel</br>Feel free to rate the repo if you liked it!
 
-**Like**
-Feel free to rate the repo if you liked it!
 
