@@ -34,4 +34,7 @@ Tic-tac-toe/
 
 **Author** :
 Ayush Goel
+
+**Like**
 Feel free to rate the repo if you liked it!
+
